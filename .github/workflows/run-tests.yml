@@ -25,4 +25,4 @@ jobs:
 
     - name: Run tests
       run: |
-        pytest -v test_reqres_api.py
+        pytest -v main.py
